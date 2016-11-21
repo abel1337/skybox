@@ -257,7 +257,7 @@ function initTextures() {
     textureImage.image.src = "image.gif";
 }
 
-var xRot = 0;
+var xRot = 10;
 var yRot = 0;
 var zRot = 0;
 function drawScene() {
